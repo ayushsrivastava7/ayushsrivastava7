@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushsrivastava7
+- 👋 Hi, I’m Ayush Srivastava   ----@ayushsrivastava7
 - 👀 I’m interested in Software Engineering and Management
 - 🌱 I’m currently learning Computer Science & Engineering
 - 💞️ I’m looking to collaborate on IT Companies  
