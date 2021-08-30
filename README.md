@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Srivastava   ----@ayushsrivastava7
-- 👀 I’m interested in Software Engineering and Management
-- 🌱 I’m currently learning Computer Science & Engineering
-- 💞️ I’m looking to collaborate on IT Companies  
+- 👀 I’m interested in Software related jobs in Companies.
+- 🌱 I’m currently pursuing Computer Science & Engineering
+- 💞️ I’m looking for a reputated Company to work in.  
 - 📫 How to reach me ----ayush121th@gmail.com
 
 <!---
